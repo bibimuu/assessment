@@ -53,6 +53,7 @@ assessmentButton.onclick = () => {
 };
 
 const answers = [
+'{userName}のいいところは優しさです。{userName}の優しい雰囲気や立ち振る舞いに多くの人が癒やされています。',
 '{userName}のいいところは声です。だから歌手じゃない？',
 '{userName}のいいところはまなざしです。だから俳優じゃない？',
 '{userName}のいいところは情熱です。だから弁護士とか？',
